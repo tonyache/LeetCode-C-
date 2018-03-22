@@ -1,1 +1,1 @@
-Solutions to problems in C++
+Solutions to algorithmic Leetcode problems in C++
