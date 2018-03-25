@@ -27,7 +27,6 @@ public:
         else if(t1==NULL){
             if(left_child==true){
                 parent1->left=t2;
-                //delete parent2;
                 return t2;
             }
             else{
