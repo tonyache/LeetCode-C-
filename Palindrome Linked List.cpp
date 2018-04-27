@@ -8,6 +8,8 @@
 
 #include "Palindrome Linked List.hpp"
 
+//Determine if a given singly-linked list is palindrome.
+
  struct ListNode {
          int val;
          ListNode *next;
