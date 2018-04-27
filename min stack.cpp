@@ -6,6 +6,9 @@
 //  Copyright © 2018 Antonio Ache. All rights reserved.
 //
 
+// Design a Data Structure consisting of a stack and such that one has constant time access to the minimum element in the stack.
+
+
 #include "min stack.hpp"
 #include<iostream>
 #include<stack>
