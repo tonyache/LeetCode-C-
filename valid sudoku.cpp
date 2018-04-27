@@ -12,6 +12,10 @@
 #include<vector>
 #include<unordered_map>
 
+//Given 9 by 9 grid of numbers ranging from 0 to 8, 
+//such that not all positions are filled, 
+//determine whether the grid is a valid Sudoku Grid
+
 using namespace std;
 
 class Solution {
