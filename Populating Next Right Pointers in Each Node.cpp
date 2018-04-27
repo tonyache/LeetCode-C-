@@ -12,6 +12,10 @@
 #include<vector>
 #include<unordered_map>
 
+// Consider a data structure given by a binary tree and such that all nodes in a given level form a singly linked list.
+// Write an algorithm that returns for every tree node the next element in the level corresponding to that tree node
+// (again one sees the level containing the node as a linked list).
+
 using namespace std;
 
  //Definition for binary tree with next pointer.
