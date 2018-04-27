@@ -7,7 +7,11 @@
 //
 
 #include "Merge Two Binary Trees.hpp"
- struct TreeNode {
+ 
+// Given two binary trees, merge them in such a way that if two roots in the same level are to be merged, their values
+// are added together. Do the merging without creating new nodes.
+
+struct TreeNode {
          int val;
          TreeNode *left;
          TreeNode *right;
